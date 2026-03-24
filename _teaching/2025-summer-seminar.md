@@ -7,12 +7,3 @@ venue: "LMU Munich"
 date: 2025-05-25
 location: "Munich, Germany"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
