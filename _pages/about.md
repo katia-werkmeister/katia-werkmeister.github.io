@@ -18,3 +18,5 @@ For more about my **research**, click [here](/research/).
 For more about my **policy work** and public outreach, click [here](/policy/).
 
 For my **CV**, click [here](/cv/).
+
+**Contact:** [werkmeister@ifo.de](mailto:werkmeister@ifo.de)
