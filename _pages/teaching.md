@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /teaching/
 title: "Katia Werkmeister"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ### Tutorial: Economics of Education
