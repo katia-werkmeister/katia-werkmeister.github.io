@@ -13,6 +13,8 @@ author_profile: true
 
 &ensp; &ensp; **Podcast appearance**, [Der Tag](https://www.ardsounds.de/episode/urn:ard:episode:f4186753af6d353c/) by Hessischer Rundfunk (starting at minute 19:40). <span style="float: right;">2026</span>
 
+&ensp; &ensp; **Radio interview**, [WDR 5 Morgenecho](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-fruehkindliche-bildung-die-folgen-fuer-die-volkswirtschaft-100.html). <span style="float: right;">2026</span>
+
 ## Covid
 **ifo Schnelldienst**: ["Wie geht es einkommensschwächeren Familien in der Coronakrise?"](https://www.ifo.de/en/publications/2021/article-journal/how-are-lower-income-families-faring-coronavirus-crisis) (with B. Arold, V. Freundl, L. Zierow). Covered by [national](https://www.tagesschau.de/newsticker/liveblog-coronavirus-freitag-245.html#Corona-Krise-trifft-einkommensschwache-Familien) and [regional](https://www.noz.de/deutschland-welt/politik/artikel/corona-krise-in-familien-viele-sparten-sogar-am-essen-20122060) media. <span style="float: right;">2021</span>
 
