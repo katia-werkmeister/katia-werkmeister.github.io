@@ -11,7 +11,7 @@ author_profile: true
 
 &ensp; &ensp; **Media coverage** [Spiegel](https://www.spiegel.de/panorama/bildung/wirtschaft-bessere-bildung-koennte-das-bruttoinlandsprodukt-um-21-billionen-euro-steigern-a-235250cc-30bb-456d-addb-722a6b25eda2) · [Handelsblatt](https://www.handelsblatt.com/politik/deutschland/ifo-studie-bessere-bildung-koennte-deutschland-billionen-euro-bringen/100184003.html) · [Welt](https://www.welt.de/politik/deutschland/article69391f3dc3b4893a9e2b3f05/berechnung-des-ifo-instituts-bildungsnotstand-in-deutschland-volkswirtschaftliche-dimension-politisch-oft-unterschaetzt.html) · [ZEIT](https://www.zeit.de/wirtschaft/2025-12/ifo-bildung-wirtschaftsleistung-billionen-euro-schueler)
 
-&ensp; &ensp; **Guest articles** [Fuldaer Tageszeitung](/files/FZ_Beleg_Gastkommentar_KatiaWerkmeister.pdf) · [Städtetag aktuell](https://www.staedtetag.de/publikationen/staedtetag-aktuell/2026/heft-3/jeder-fruehe-euro-ist-ein-guter-euro)
+&ensp; &ensp; **Guest articles** [Fuldaer Tageszeitung](/files/FZ_Beleg_Gastkommentar_KatiaWerkmeister.pdf) · [Städtetag aktuell](https://www.staedtetag.de/publikationen/staedtetag-aktuell/2026/heft-3/jeder-fruehe-euro-ist-ein-guter-euro) · [Verband Deutscher Privatschulverbände](https://privatschulen.de/images/e-paper/epaper-2026_Freie_Bildung/#16)
 
 &ensp; &ensp; **Radio** [Der Tag](https://www.ardsounds.de/episode/urn:ard:episode:f4186753af6d353c/) (Hessischer Rundfunk, starting at 19:40) · [WDR 5 Morgenecho](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-fruehkindliche-bildung-die-folgen-fuer-die-volkswirtschaft-100.html)
 
