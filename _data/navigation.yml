@@ -20,9 +20,10 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Resources"
-    url: /resources/
-    
+  # Resources page is kept in _pages/resources.md but not published (published: false)
+  # - title: "Resources"
+  #   url: /resources/
+
   # - title: "CV"
   #   url: /cv-json/
     

@@ -3,6 +3,7 @@ layout: archive
 title: "Resources"
 permalink: /resources/
 author_profile: true
+published: false
 ---
 I have collected some useful resources for writing student theses. You can download the file [here](/files/2026 werkmeister - resources for students.pdf)
 <iframe src="/files/2026 werkmeister - resources for students.pdf" width="100%" height="900px" style="border: none;">
